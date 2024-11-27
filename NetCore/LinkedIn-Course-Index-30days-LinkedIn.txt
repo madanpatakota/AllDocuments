@@ -1,0 +1,170 @@
+Master ASP.NET Core in 30 Days
+
+Day 1: Introduction to ASP.NET Core
+
+ • What is ASP.NET Core?
+ • Key Features of ASP.NET Core
+ • Setting Up ASP.NET Core Development Environment
+ • Creating Your First ASP.NET Core Application
+
+Day 2: ASP.NET Core Basics - Part 1
+
+ • Understanding ASP.NET Core Project Structure
+ • Middleware in ASP.NET Core
+ • Configuring the Startup Class
+
+Day 3: ASP.NET Core Basics - Part 2
+
+ • Dependency Injection in ASP.NET Core
+ • Built-In and Custom Services
+ • Scoped, Transient, and Singleton Lifetimes
+
+Day 4: Working with Controllers and Actions
+
+ • Introduction to Controllers in ASP.NET Core
+ • Action Methods and Action Results
+ • Using ApiController Attribute
+
+Day 5: Routing in ASP.NET Core
+
+ • Introduction to Routing
+ • Attribute Routing vs. Conventional Routing
+ • Defining Route Parameters
+
+Day 6: Creating REST APIs with ASP.NET Core - Part 1
+
+ • Introduction to REST APIs
+ • Creating Controllers with HTTP Verbs (GET, POST, PUT, DELETE)
+ • Returning JSON Responses
+
+Day 7: Creating REST APIs with ASP.NET Core - Part 2
+
+ • Handling Query Strings and Route Parameters
+ • Working with IActionResult and ActionResult<T>
+ • Exception Handling in REST APIs
+
+Day 8: ASP.NET Core and Databases - Part 1
+
+ • Introduction to Entity Framework Core
+ • Configuring a Database Context
+ • CRUD Operations with EF Core
+
+Day 9: ASP.NET Core and Databases - Part 2
+
+ • Writing LINQ Queries
+ • Pagination and Sorting with EF Core
+ • Working with Migrations
+
+Day 10: ASP.NET Core and Databases - Part 3
+
+ • Managing Relationships in EF Core
+ • Lazy vs. Eager Loading
+ • Transactions and Unit of Work
+
+Day 11: Securing ASP.NET Core Applications - Part 1
+
+ • Introduction to ASP.NET Core Identity
+ • Securing REST APIs with Basic Authentication
+ • Configuring ASP.NET Core Identity
+
+Day 12: Securing ASP.NET Core Applications - Part 2
+
+ • Role-Based Authorization
+ • Policy-Based Authorization
+ • Custom User Authentication
+
+Day 13: JWT Authentication in ASP.NET Core
+
+ • Introduction to JSON Web Tokens (JWT)
+ • Implementing JWT Authentication in ASP.NET Core
+ • Refresh Tokens and Token Expiry
+
+Day 14: Testing in ASP.NET Core - Part 1
+
+ • Introduction to Unit Testing in ASP.NET Core
+ • Using xUnit for Unit Testing
+ • Mocking Dependencies with Moq
+
+Day 15: Testing in ASP.NET Core - Part 2
+
+ • Integration Testing in ASP.NET Core
+ • Testing Controllers and Services
+ • Testing Middleware Logic
+
+Day 16: Testing in ASP.NET Core - Part 3
+
+ • Mocking HTTP Context with MockHttpContextAccessor
+ • Using TestServer for Integration Testing
+ • Testing Authentication and Authorization
+
+Day 17: ASP.NET Core MVC
+
+ • Understanding the Model-View-Controller Pattern
+ • Working with Views and Razor Syntax
+ • Handling Forms and Model Binding
+
+Day 18: ASP.NET Core and Razor Pages
+
+ • Introduction to Razor Pages
+ • Creating and Handling Razor Pages
+ • Using Tag Helpers for UI Development
+
+Day 19-20: ASP.NET Core and Microservices
+
+ • Introduction to Microservices Architecture
+ • Building Microservices with ASP.NET Core
+ • Implementing API Gateways
+
+Day 21-22: ASP.NET Core with Docker
+
+ • Containerizing ASP.NET Core Applications
+ • Writing Dockerfiles for ASP.NET Core
+ • Running ASP.NET Core Apps in Docker
+
+Day 23: ASP.NET Core with SignalR
+
+ • Introduction to SignalR
+ • Implementing Real-Time Communication
+ • Building a Chat Application
+
+Day 24: ASP.NET Core with Message Queues
+
+ • Integrating RabbitMQ with ASP.NET Core
+ • Working with Azure Service Bus
+ • Asynchronous Messaging Patterns
+
+Day 25: Monitoring ASP.NET Core Applications
+
+ • Introduction to ASP.NET Core Logging
+ • Monitoring with Application Insights
+ • Using Health Checks for Application Status
+
+Day 26: ASP.NET Core with GraphQL
+
+ • Introduction to GraphQL
+ • Setting Up GraphQL in ASP.NET Core
+ • Building GraphQL Queries and Mutations
+
+Day 27: Logging in ASP.NET Core
+
+ • Introduction to Logging Providers
+ • Configuring Log Levels
+ • Structured Logging with Serilog
+
+Day 28: Performance Optimization in ASP.NET Core
+
+ • Optimizing Middleware Pipeline
+ • Using Response Compression
+ • Profiling and Diagnosing Performance Issues
+
+Day 29: Deploying ASP.NET Core Applications
+
+ • Deploying to Azure App Service
+ • Configuring CI/CD Pipelines with GitHub Actions
+ • Deploying ASP.NET Core Apps with Docker
+
+Day 30: Best Practices and Project Development
+
+ • Following Best Practices in ASP.NET Core
+ • Designing Clean and Maintainable Applications
+ • Starting Your Own ASP.NET Core Project
